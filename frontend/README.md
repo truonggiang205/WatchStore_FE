@@ -1,10 +1,10 @@
 # WatchStore FE
 
-Thu muc nay chua ung dung frontend React + TypeScript + Vite cua WatchStore.
+Thư mục này chứa ứng dụng frontend React + TypeScript + Vite của WatchStore.
 
-Xem README chinh o thu muc goc repo de biet cach cai dat, cau hinh bien moi truong, chay local, build va test.
+Xem README chính ở thư mục gốc repo để biết cách cài đặt, cấu hình biến môi trường, chạy local, build và test.
 
-Lenh nhanh:
+Lệnh nhanh:
 
 ```bash
 npm install
